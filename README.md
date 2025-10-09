@@ -39,8 +39,7 @@
 - [Roadmap](#roadmap)
 - [FAQ](#faq)
 - [Citations](#citations)
-- [License](#license)
-- [INFO_NEEDED](#info_needed)
+
 
 ---
 
