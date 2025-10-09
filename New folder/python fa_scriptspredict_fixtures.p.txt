@@ -1,0 +1,6 @@
+python fa_scripts/predict_fixtures.py `
+  --fixtures_csv "notebooks/fixtures_sample.csv" `
+  --history_csv "data/processed/processed_features/match_level_dataset.csv" `
+  --team_rows_csv "data/processed/processed_features/team_rows_snapshot.csv" `
+  --models_dir "models" `
+  --out_csv "reports/dashboard/predictions_sample.csv"

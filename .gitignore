@@ -1,0 +1,50 @@
+# Python bytecode / build artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+*.so
+*.dll
+build/
+dist/
+*.egg-info/
+.eggs/
+pip-wheel-metadata/
+pip-log.txt
+
+# Virtual environments
+.ligueone/
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Tool caches / coverage
+.mypy_cache/
+.pytest_cache/
+.coverage
+coverage.xml
+htmlcov/
+.cache/
+
+# Editors / OS noise
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+
+# Data you don’t plan to publish
+data/raw/
+data/**/raw/
+reports/dashboard/*.csv
+
+# Model binaries (remove if you want to ship trained weights)
+models/*.joblib
+
+# Scratch / temporary files
+*.log
+*.tmp
