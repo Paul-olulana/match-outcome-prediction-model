@@ -104,7 +104,7 @@ match-outcome-ligue1/
 │
 ├── requirements.txt                  # Python dependencies
 ├── pyproject.toml                    # Optional build and environment configuration
-└── README.md                         # Project documentation (this file)
+└── README.md                         # Project documentation
 
 ```
 
